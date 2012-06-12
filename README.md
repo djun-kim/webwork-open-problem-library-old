@@ -1,4 +1,4 @@
-webwork-open-problem-library2
+webwork-open-problem-library
 =============================
 
 This is the WeBWorK Open Problem Library (OPL for short).  Here you
